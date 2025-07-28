@@ -13,6 +13,8 @@ built during COVID to help people stay safe.
 
 ## Screenshots
 
-![Screenshot 1](assets/IMG-20201217-WA0000.jpg)  
-![Screenshot 2](assets/IMG-20201217-WA0002.jpg)  
-![Screenshot 3](assets/IMG-20201217-WA0004.jpg)
+<img src="assets/IMG-20201217-WA0000.jpg" alt="Screenshot 1" width="300"/>
+<br/>
+<img src="assets/IMG-20201217-WA0002.jpg" alt="Screenshot 2" width="300"/>
+<br/>
+<img src="assets/IMG-20201217-WA0004.jpg" alt="Screenshot 3" width="300"/>
